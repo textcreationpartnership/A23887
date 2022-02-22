@@ -1,0 +1,179 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Abstract of the Commission for Greenwich Hospital for Seamen</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A23887</idno>
+            <idno type="STC">Wing A129</idno>
+            <idno type="STC">ESTC R3279</idno>
+            <idno type="EEBO-CITATION">12891438</idno>
+            <idno type="OCLC">ocm 12891438</idno>
+            <idno type="VID">95110</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A23887)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 95110)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1:30)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Abstract of the Commission for Greenwich Hospital for Seamen</title>
+               </titleStmt>
+               <extent>[1], 4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Charles Bill and the executrix of Thomas Newcomb deceas'd ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1695.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Royal Hospital for Seamen at Greenwich.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:95110:1"/>
+            <pb n="1" facs="tcp:95110:1" rendition="simple:additions"/>
+            <head>AN ABSTRACT OF THE COMMISSION FOR Greenwich Hoſpital FOR SEAMEN.</head>
+            <p>
+               <note place="margin">Deſign of the Commiſſion.</note>
+               <seg rend="decorInit">H</seg>IS MAJESTY by His Letters Patents di<g ref="char:EOLhyphen"/>rected to His Royal Highneſs the Prince of <hi>Denmark,</hi> and others, ſetting forth His Deſire, That the Trade, Navigation and Naval Strength of the Realm of <hi>England</hi> (where<g ref="char:EOLhyphen"/>upon the Safety and Fouriſhing State thereof does ſo much depend) ſhould by all proper Means be Pro<g ref="char:EOLhyphen"/>moted; and being perſwaded that nothing will more Effectu<g ref="char:EOLhyphen"/>ally contribute thereto, than by Encouragements to Increaſe the Number of <hi>Engliſh</hi> Seamen, as well for the Strengthening the Navy Royal, as for Supplying the Occcaſions of the Merchants: And whereas the Seafaring Men of this Kingdom have long diſtinguiſhed themſelves throughout the World, by their Induſtry, Skilfulneſs, Courage and Conſtancy, in Engagements and Hazards for the Defence and Honour of their Countrey; and nothing being more likely to continue their Ancient Reputation, and invite greater Numbers to betake themſelves to the Sea, than the providing, That Seamen, who by Age, Wounds or other Accidents ſhall be Diſabled, may be Supported at the Publick Charge; and that the Children of ſuch Diſabled, and alſo the Widows and Children of ſuch as be Slain in Sea-Service may be Provided for and Educated: He hath Determined to Erect an Hoſpital for the Purpoſes a<g ref="char:EOLhyphen"/>foreſaid.</p>
+            <p>
+               <note place="margin">Grant of the Kings Houſe at <hi>Greenwich.</hi>
+               </note>And in Order to put the ſame in Execution, His Majeſty, with the late Queen, did, by Their Letters Patents Dated the Twenty fifth Day of <hi>October</hi> laſt paſt, Grant unto Truſtees
+<pb n="2" facs="tcp:95110:2"/>therein named, a Parcel of Ground in <hi>Eaſt Greenwich</hi> in the County of <hi>Kent,</hi> containing and fet out as in the ſaid Letters Patents is fully expreſſed, together with the Palace at <hi>Green<g ref="char:EOLhyphen"/>wich,</hi> Built by King <hi>Charles</hi> the Second, to the Intent that the ſame ſhall be converted to an Hoſpital for Seamen, their Wi<g ref="char:EOLhyphen"/>dows and Children.</p>
+            <p>And His Majeſty conſidering, That the Conſtituting a Foundation of that Nature, and Framing Rules and Statutes for the Government thereof is a Matter of Difficulty, and ſuch as requires Mature Deliberation; therefore repoſing eſpecial Truſt and Confidence in their known Diſcretions,<note place="margin">Commiſſioners appointed.</note> Abilities and Integrities, he hath Appointed the aforeſaid Commiſſioners.</p>
+            <p>Who are Directed to Meet from time to time, and ſo many as ſhall be preſent,<note place="margin">The <hi>Quorum.</hi>
+               </note> of whom any one of His Majeſties Privy Council, and any one of the Commiſſioners of the Treaſury, and any one of the Commiſſioners of the Admi<g ref="char:EOLhyphen"/>ralty, and the Mayor of the City of <hi>London,</hi> or any one of the Aldermen of the ſaid City for the time being, to be Four at the leaſt, to conſider of ſuch Methods as they ſhall judge Expedient to be Obſerved in Executing the ſame.</p>
+            <p>And any Seven or more of them, of whom Four or more to be ſuch as aforeſaid,<note place="margin">To take to their Aſſiſtance ſuch as they think fit.</note> are Authorized to take to their Aſſiſtance ſuch Perſons as they ſhall think fit to Adviſe with, in the Execution of this Commiſſion.</p>
+            <p>And out of their own Number, as often as they ſhall judge it Expedient,<note place="margin">To make Sub-Committees.</note> to Conſtitute ſuch and ſo many Sub-Com<g ref="char:EOLhyphen"/>mittees, and to Inveſt them with ſuch Powers, as they ſhall think fit, purſuant to the Powers given to themſelves: and to Revoke and make Void, and to Revive the ſaid Committees, and calling to their Aſſiſtance the Surveyor General of His Majeſties Works, and ſuch others as they ſhall think fit, to conſider what part of the Structures now ſtanding will be un<g ref="char:EOLhyphen"/>fit,<note place="margin">To Conſider how the pre<g ref="char:EOLhyphen"/>ſent Building may be made ſerviceable.</note> and in what manner ſuch as they ſhall think fit to ſtand may beſt be Alter'd for the uſe of the ſaid Hoſpital, in order to Repreſent the ſame to His Majeſty, and to prepare Mo<g ref="char:EOLhyphen"/>dels of ſuch Buildings,<note place="margin">To prepare Models and Schemes.</note> and Conveniencies, as they ſhall think proper to be Erected upon the Premiſſes Granted, with ſuch Schemes or Draughts as may Explain the ſame, and with all convenient ſpeed to preſent the ſame to His Majeſty for His Royal Approbation.</p>
+            <p>
+               <note place="margin">And a Charter and Statutes to be approved of by His Majeſty.</note>And with the Aſſiſtance of the Attorney or Solicitor Ge<g ref="char:EOLhyphen"/>neral or others His Majeſty's Council Learned in the Law, to prepare a Charter of Foundation of the Hoſpital, and Sta<g ref="char:EOLhyphen"/>tutes, Conſtitutions, Orders and Ordinances for the Founda<g ref="char:EOLhyphen"/>tion, perpetual Management, Rule and Government thereof, and all other Matters relating thereto, and to preſent the ſame to His Majeſties Royal Conſideration.</p>
+            <p>
+               <note place="margin">His Majeſty gives 2000 <abbr>
+                     <hi>l.</hi>
+                  </abbr> 
+                  <hi>per annum</hi> to the Hoſpital.</note>And His Majeſty, as an Inſtance of His Princely Zeal to ſo Pious a Work, hath Determined, and doth Declare, That He will yearly cauſe the Sum of Two thouſand Pounds to be paid out of His Treaſury, to the Uſes of the ſaid Hoſpital,
+<pb n="3" facs="tcp:95110:2"/>without any further or other Warrant to be obtained for the ſame, into the Hands of the Treaſurer for the Hoſpital, at ſuch times as ſhall be deſired by the Commiſſioners.</p>
+            <p>And not doubting but His Example, and the great Advan<g ref="char:EOLhyphen"/>tage it will prove to the Kingdom, will diſpoſe great Num<g ref="char:EOLhyphen"/>bers of His good Subjects to the Advancing ſo Charitable a Deſign,<note place="margin">The Commiſ<g ref="char:EOLhyphen"/>ſiones impow<g ref="char:EOLhyphen"/>red to receive Subſ<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>iptions of Mony, <hi>&amp;c.</hi>
+               </note> He doth Impower the ſaid Commiſſioners to Take and Receive all ſuch voluntary Gifts or Subſcriptions of Money, Goods or Chattels, Eſtates or Intereſts in any Manors, Lands, Tenements, Rents, Hereditaments or other things whatſoever, which any Perſons, Bodies Politick or Corpo<g ref="char:EOLhyphen"/>rate ſhall be willing to Give, Beſtow, or Bequeath to the ſame: And requires,<note place="margin">To <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ake pub<g ref="char:EOLhyphen"/>lick Notices of this Commiſſi<g ref="char:EOLhyphen"/>on.</note> That the ſaid Commiſſioners do Cauſe Publick Notification to be made of theſe Preſents, in ſuch manner as they ſhall think moſt conducible to the furtherance of the ſaid Charity.</p>
+            <p>
+               <note place="margin">To <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>epute Per<g ref="char:EOLhyphen"/>ſons <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o take ſub<g ref="char:EOLhyphen"/>ſcripions, <hi>&amp;c.</hi>
+               </note>And they are Authorized to Depute Perſons, by Inſtru<g ref="char:EOLhyphen"/>ments under their Hands and Seals, to Take Subſcriptions, and to Collect Monies Contributed, and to bring in to the Hands of the Treaſurer; and to diſplace ſuch Deputies, and appoint others as they ſhall ſee Cauſe; and to eſtabliſh Cheques, Comptrolls and Orders, for the due Charging of the Treaſurer, and alſo the ſaid Deputies, and all other Per<g ref="char:EOLhyphen"/>ſons who ſhall be Chargeable with any Monies or other Pro<g ref="char:EOLhyphen"/>fits to the ſaid Uſes: And upon ſuſpicion of Fraud,<note place="margin">Powe to Exa<g ref="char:EOLhyphen"/>min upon Oath.</note> or Con<g ref="char:EOLhyphen"/>cealments of Monies or other Things Given, to Examin Wit<g ref="char:EOLhyphen"/>neſſes upon Oath, or by any other Lawful means, and to pro<g ref="char:EOLhyphen"/>ceed thereupon with effect.</p>
+            <p>
+               <note place="margin">Required to cer<g ref="char:EOLhyphen"/>tifie to the Trea<g ref="char:EOLhyphen"/>ſury all Gifts.</note>And They are Required to Certifie, from time to time, to the Treaſury, the Names of the Perſons, Societies, <hi>&amp;c.</hi> who ſhall Give to this Charitable Deſign, with the Sums of Monies or other Things deviſed, to the end a Perpetual Me<g ref="char:EOLhyphen"/>morial may be made of ſuch well diſpoſed Perſons, and whereby the Treaſurer may be Charged in his Accounts.</p>
+            <p>
+               <note place="margin">Treaſurer ap<g ref="char:EOLhyphen"/>pointed.</note>His Majeſty confiding very much in the Ability and Faith<g ref="char:EOLhyphen"/>fulneſs of <hi>John Evelyn, Senior,</hi> 
+               <abbr>Eſq</abbr> hath appointed him Treaſurer and Receiver General of the ſaid Hoſpital, during His Majeſty's Pleaſure; And in Caſe of his Death or Remo<g ref="char:EOLhyphen"/>val, doth Impower the Commiſſioners or any Seven, of whom Four or more to be as aforeſaid, to appoint One or more Perſons to the ſaid Place of Treaſurer, and ſuch to Remove or Diſplace, as they ſhall ſee Cauſe:<note place="margin">The Treaſurer to give Acquit<g ref="char:EOLhyphen"/>tances.</note> And the Treaſurer is Impowered to give Acquittances for all Sums of Monies or other things Received; and ſhall be ſubject to ſuch Com<g ref="char:EOLhyphen"/>ptrolls as ſhall be Eſtabliſhed by the Commiſſioners: His Majeſty ſtrictly enjoyning, That nothing given to the ſaid Uſes, be diverted or otherwiſe applied, than to the Charita<g ref="char:EOLhyphen"/>ble purpoſes mentioned, or to defray neceſſary Charges re<g ref="char:EOLhyphen"/>lating thereto.</p>
+            <p>
+               <note place="margin">Power after His Majeſty has ap<g ref="char:EOLhyphen"/>proved the Mo<g ref="char:EOLhyphen"/>dels, to Proceed and Finiſh.</note>And the Commiſſioners are Impowered, ſo ſoon as His Majeſty ſhall have approved, under His Sign Manual, their Report in that behalf, to take down, or to alter the preſent
+<pb n="4" facs="tcp:95110:3"/>Structure, in ſuch manner as ſhall be appointed. And after ſuch time as He ſhall have allowed of ſuch Models and Schemes as they ſhall have preſented, as aforeſaid, under His Sign Manual, or otherwiſe, for the Building, Fitting and Furniſhing the ſaid Hoſpital, To Put in hand, Carry on, and Finiſh the ſame, proceeding therein in ſuch Method as to them ſhall ſeem beſt.</p>
+            <p>
+               <note place="margin">All Monie to be Iſſued by Warrants in Writing.</note>And by Warrants in Writing, to direct the Iſſuing of all Monies, for Buying Materials, and other Uſes and Expendi<g ref="char:EOLhyphen"/>tures of the Hoſpital; and all other Charges incident to the Execution of the Commiſſion; And Agree upon, and Set down Inſtructions, for the keeping of the Money brought into the Treaſury, and the Materials, Proviſions and Stores, and for the Iſſuing of the ſame; And appoint in what man<g ref="char:EOLhyphen"/>ner all Books and Accounts ſhall be Kept, Audited and Al<g ref="char:EOLhyphen"/>lowed.</p>
+            <p>
+               <note place="margin">Powers to be given to <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ub-Committes.</note>And out of their own Number, and ſuch others as they ſhall chooſe, to make Sub-Committees, and inveſt them with Power to make Contracts, or other Things which they ſhall intruſt them with, purſuant to the Power given to them<g ref="char:EOLhyphen"/>ſelves; and to make Void, and Revive the ſame, as they ſee needful: And they are to Conſider and Determine of all other Matters for the Carrying on this Deſign, till the ſame ſhall be Compleated.</p>
+            <p>
+               <note place="margin">Commiſſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oners to be accounta<g ref="char:EOLhyphen"/>ble each for himſelf only.</note>And His Majeſty doth declare, That the ſaid Commiſſioners ſhall be accountable only for their own reſpective Receipts, Actings and Doings. And doth Grant to the afore appointed Treaſurer, the Yearly Sallary of Two hundred pounds, from time to time to be allowed upon his Accounts. And doth Impower the Commiſſioners to Proceed, Agree and Con<g ref="char:EOLhyphen"/>clude in all Caſes and Things left undetermined upon His late Commiſſion granted for the purpoſes aforeſaid, Dated the 12th day of <hi>March</hi> laſt paſt; which Commiſſion is hereby Revoked and Determined.</p>
+            <closer>
+               <dateline>Dated at <hi>Weſtminſter</hi> 
+                  <date>the 10th Day of <hi>September,</hi> in the Seventh Year of His Majeſties Reign.</date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Charles Bill,</hi> and the Executrix of <hi>Thomas Newcomb</hi> deceas'd, Printers to the King's moſt Excellent Majeſty, 1695.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
